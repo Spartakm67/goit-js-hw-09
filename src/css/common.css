@@ -27,4 +27,11 @@ img {
   flex-direction: column;
   align-items: center;
   margin-right: 10px;
+  text-transform: lowercase;
 }
+
+.value {
+  font-size: 25px;
+  font-weight: 400;
+}
+
