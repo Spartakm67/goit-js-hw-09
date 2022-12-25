@@ -20,10 +20,11 @@ img {
 .timer {
   display: flex;
   margin-top: 20px;
-}
+  }
 
 .field {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-right: 10px;
 }
